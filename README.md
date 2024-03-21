@@ -1,2 +1,2 @@
 # Food-ordering-homepage
-a dummy frontend website
+a dummy frontend responsive website to order food, bulk order and for catering business
